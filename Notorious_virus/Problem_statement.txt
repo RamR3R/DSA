@@ -1,0 +1,23 @@
+Notorious virus 
+Description
+
+Your computer which has N files is infected with a Notorious Virus. 
+Each file on the computer has a value associated with it. 
+You can copy any consecutive number of files from the computer. However, 
+the virus will delete exactly one value that has maximum value among all chosen files.
+
+Your task is to collect as much value as you can from the computer
+
+The task is to compute the maximum sum of values you can obtain if you choose some consecutive files from the computer.
+
+
+Input				Output
+4				6
+1 2 3 4 		
+
+Input				Output
+7				5
+0 -11 5 5 -10 0 50
+
+
+refer the link for the question briefing  =>  https://oj.masaischool.com/contest/7029/problem/10
